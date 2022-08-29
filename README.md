@@ -1,6 +1,24 @@
-# Algorithms Kitchen
+# Design Patterns Kitchen
 
-I see that numerous algorithms are discussed and presented wihtin the Algorithm Analysis and Design topic. 
-Yet, I have been having difficulty about findind the implementaion of those algorithms such as bruteforce implementation of TSP problem.
+In this repository, I aim to present the implementations of popular software design patterns usign realistic scenarios. 
 
-In this repository, I presents the implementations of many algorithms in different styles, including BruteForce, Greedy, Divide and Conquer, Deacrease by one, Dynamic Progrmaming, etc. 
+Although, thier implementations are still their in fancy, you can find the following desing patterns in the repository.
+
+<b>behavioral</b>
+* observer
+* strategy
+
+<b>creational</b>
+* abstractfactory
+* builder1
+* builder2
+* factory
+* singleton
+* factorymethod
+
+<b>structural</b>
+* adapter
+* bridge
+* composite1
+* composite2
+* facade
